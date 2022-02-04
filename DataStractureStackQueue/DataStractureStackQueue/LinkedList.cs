@@ -8,7 +8,6 @@ namespace DataStractureStackQueue
 {
     internal class LinkedList
     {
-            
         internal Node head;
         internal void Add(int data)
         {
@@ -174,5 +173,3 @@ namespace DataStractureStackQueue
 
     }
 }
-    
-
